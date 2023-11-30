@@ -10,7 +10,7 @@
 
 ### 🧠 Concept
 
-Satellite analysis processes, visualizes and performs various analyzes of multispectral data obtained from satellite images. The general purpose of the code is to analyze and visualize multispectral data obtained from satellite images. These analyzes include 3D visualization of vegetation health, temperature index, humidity index, roughness index and elevation data.
+The purpose of the satellite analysis project is to process, visualize and perform various analyzes of multispectral data obtained from satellite images. These analyzes include 3D visualization of vegetation health, temperature index, moisture index, roughness index and elevation data.
 
 ---
 
